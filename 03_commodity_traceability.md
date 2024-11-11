@@ -83,6 +83,11 @@
 人工衛星画像を用いた森林伐採のモニタリングや、異なる気候変動シナリオに基づく将来の生産量の予測など、個社のリスク低減アクションにつながる分析結果を高解像度で提供しています。
 
 
+<img src="images/03_eisei.png" alt="scenario" width="500">
+
+図４：シナリオ分析のイメージ  
+
+
 
 
 [1]: Liu, J., Hull, V., Batistella, M., DeFries, R., Dietz, T., Fu, F., ... & Zhu, C. (2013). Framing sustainability in a telecoupled world. Ecology and Society, 18(2).  
