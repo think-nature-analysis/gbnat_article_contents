@@ -15,7 +15,7 @@
 この重要性は、自然関連財務情報開示タスクフォース Taskforce on Nature-related Financial Disclosures (TNFD) が提唱するLEAPプロセスにおいても、LOCATEフェーズの主要な課題として、明示されています。
 
 
-<img src="images/03_evaluate.png" alt="tn-commoditiy" width="500">
+<img src="images/03_eval.png" alt="tn-commoditiy" width="500">
 
 図１：シンクネイチャーが行う農業コモディティのインパクト評価  
 
