@@ -42,7 +42,7 @@ EVの大量導入を行うためには、ニッケル、リチウム、コバル
 こうして明らかになった、「調達地域」あるいは「潜在的調達地域」をもとに、鉱物資源と生物多様性の接点を分析することができます（図２）。
 
 
-<img src="images/03_eval.png" alt="tn-commoditiy" width="500">
+<img src="images/04_eval.png" alt="tn-commoditiy" width="500">
 
 図２：シンクネイチャーが行う鉱物コモディティのインパクト評価  
 
