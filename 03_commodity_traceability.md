@@ -26,7 +26,7 @@
 生物多様性と農業生産の接点を明らかにするためには、生産がどこで行われているのかを知ることが不可欠です。
 農作物は、野生植物に由来する生物種であり、それぞれの生長に適した環境があります。
 したがって、農作物の生産分布には、明確な地理的偏りが存在します。
-図１は、バナナの生産地域の分布を表した地図です。東南アジア原産のバショウ科の植物であるバナナは、熱帯で栽培されています。  
+図１は、バナナの生産地域の分布を表した地図です。東南アジア原産のバショウ科の植物であるバナナは、熱帯地域で栽培されています。  
 
 <img src="images/03_banana.JPG" alt="banana" width="500">
 
@@ -83,8 +83,8 @@
 
 
 
-[1]: Liu, J., Hull, V., Batistella, M., DeFries, R., Dietz, T., Fu, F., ... & Zhu, C. (2013). Framing sustainability in a telecoupled world. Ecology and Society, 18(2).
-[2]: Shahid, M., Farooq, M. O., Razaq, M., Adnan, M., Zahid, S., Hussain, A., & Shah, F. M. (2023). Organic fertility management in cotton Gossypium hirsutum L. fosters arthropod biodiversity and complements pest suppression. Journal of Applied Entomology, 147(10), 1001-1013.
+[1]: Liu, J., Hull, V., Batistella, M., DeFries, R., Dietz, T., Fu, F., ... & Zhu, C. (2013). Framing sustainability in a telecoupled world. Ecology and Society, 18(2).  
+[2]: Shahid, M., Farooq, M. O., Razaq, M., Adnan, M., Zahid, S., Hussain, A., & Shah, F. M. (2023). Organic fertility management in cotton Gossypium hirsutum L. fosters arthropod biodiversity and complements pest suppression. Journal of Applied Entomology, 147(10), 1001-1013.  
 
 
 
