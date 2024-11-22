@@ -38,15 +38,15 @@ GBNATはこの課題を解決するために開発された評価ツールです
 
 
 
-[1]: Keith, D.A. et al. (2022) A function-based typology for Earth’s ecosystems. Nature 610(7932): 513-518.  
-[2]: Paul, C., Hanley, N., Meyer, S. T., Fürst, C., Weisser, W. W., & Knoke, T. (2020) On the functional relationship between biodiversity and economic value. Science Advances 6(5): eaax7712.  
-[3]: Dasgupta, P. (2021). The economics of biodiversity: the Dasgupta review. Hm Treasury.  
-[4]: IPBES (2019) Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services—Advance Unedited Version.  
-[5]: Tollefson, J. (2019) One million species face extinction. Nature 569(7755): 171.  
-[6]: Nicholson, E. et al. (2021) Scientific foundations for an ecosystem goal, milestones and indicators for the post-2020 global biodiversity framework. Nature ecology & evolution 5(10): 1338-1349.  
-[7]: Lenzen, M. et al. (2012) International trade drives biodiversity threats in developing nations. Nature 486(7401): 109-112.  
-[8]: Liu, J. et al. (2013) Framing sustainability in a telecoupled world. Ecology and Society, 18(2).  
-[9]: Carmenta, R. et al. (2023). Connected Conservation: Rethinking conservation for a telecoupled world. Biological Conservation 282: 110047.  
+- [1]: Keith, D.A. et al. (2022) A function-based typology for Earth’s ecosystems. Nature 610(7932): 513-518.  
+- [2]: Paul, C., Hanley, N., Meyer, S. T., Fürst, C., Weisser, W. W., & Knoke, T. (2020) On the functional relationship between biodiversity and economic value. Science Advances 6(5): eaax7712.  
+- [3]: Dasgupta, P. (2021). The economics of biodiversity: the Dasgupta review. Hm Treasury.  
+- [4]: IPBES (2019) Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services—Advance Unedited Version.  
+- [5]: Tollefson, J. (2019) One million species face extinction. Nature 569(7755): 171.  
+- [6]: Nicholson, E. et al. (2021) Scientific foundations for an ecosystem goal, milestones and indicators for the post-2020 global biodiversity framework. Nature ecology & evolution 5(10): 1338-1349.  
+- [7]: Lenzen, M. et al. (2012) International trade drives biodiversity threats in developing nations. Nature 486(7401): 109-112.  
+- [8]: Liu, J. et al. (2013) Framing sustainability in a telecoupled world. Ecology and Society, 18(2).  
+- [9]: Carmenta, R. et al. (2023). Connected Conservation: Rethinking conservation for a telecoupled world. Biological Conservation 282: 110047.  
 
 
 
