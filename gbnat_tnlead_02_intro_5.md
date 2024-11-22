@@ -36,7 +36,7 @@ GBNATはこの課題を解決するために開発された評価ツールです
 <img src="images/05_metrics.png" alt="gbnat" width="500">
 
 
-
+### Reference
 
 - [1]: Keith, D.A. et al. (2022) A function-based typology for Earth’s ecosystems. Nature 610(7932): 513-518.  
 - [2]: Paul, C., Hanley, N., Meyer, S. T., Fürst, C., Weisser, W. W., & Knoke, T. (2020) On the functional relationship between biodiversity and economic value. Science Advances 6(5): eaax7712.  
